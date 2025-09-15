@@ -1,0 +1,38 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e54d6431-da96-7d07-3eed-55db807a076f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "07d0cc90-0d79-4ccd-b0a2-5427c12da4c5",
+    "website": "advanced-contract-theory"
+  },
+  "course_title": "Advanced Contract Theory",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course synthesizes the computer science technologies underlying cryptocurrency, blockchain, tokenization, platforms and computational algorithms with the economics tools of contract theory, mechanism design, general equilibrium theory, and monetary theory. The goal is to understand the assumptions, existing shortcomings, and potential impact on legacy systems of distributed ledgers, smart contracts, and encryption and to explore possibilities for new financial designs and for regulation.",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.129",
+  "learning_resource_types": [],
+  "site_uid": "07f3b1ac-4de9-4a40-bf28-e7e4cb5a523c",
+  "site_short_id": "14.129-spring-2025",
+  "site_url_path": "courses/14-129-advanced-contract-theory-spring-2025"
+}
