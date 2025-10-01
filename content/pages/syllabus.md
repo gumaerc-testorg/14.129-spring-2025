@@ -13,7 +13,7 @@ Recitations: 1 session/week; 1.5 hours/session
 
 ## Prerequisites 
 
-[*14.121 Microeconomic Theory I*](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/), *14.281 Contract Economics*, or permission of the instructor
+{{% resource_link "d83764a9-ad85-4249-a327-b2598e70c516" "*14.121 Microeconomic Theory I*" %}}, *14.281 Contract Economics*, or permission of the instructor
 
 ## Course Description
 
